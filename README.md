@@ -1,3 +1,3 @@
 # qbittorrent-docker-environments
 
-* [ngix](nginx)
+* [ngix](nginx/)
