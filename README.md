@@ -1,0 +1,3 @@
+# qbittorrent-docker-environments
+
+* ngix
